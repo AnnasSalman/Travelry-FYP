@@ -1,0 +1,9 @@
+[submodule "travelry-business"]
+	path = travelry-business
+	url = https://github.com/AnnasSalman/travelry-business
+[submodule "travelry-api"]
+	path = travelry-api
+	url = https://github.com/AnnasSalman/travelry-api
+[submodule "travelry"]
+	path = travelry
+	url = https://github.com/AnnasSalman/travelry
